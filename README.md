@@ -1,5 +1,5 @@
 # recipes
 
-![123](https://github.com/taup-os/recipes/blob/main/123.png)
+![img1](https://github.com/taup-os/recipes/blob/main/img1.png)
 
-![321](https://github.com/taup-os/recipes/blob/main/321.png)
+![img2](https://github.com/taup-os/recipes/blob/main/img2.png)
